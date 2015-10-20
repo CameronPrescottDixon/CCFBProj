@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         btnChangeImg.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                    ivImage.setX(ivImage.getX() + 20);
+                    ivImage.setX(ivImage.getX() + 30);
             }
         });
     }
