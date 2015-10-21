@@ -62,3 +62,9 @@ public class MainActivity extends AppCompatActivity {
         mySound.start();
     }
 }
+
+//https://www.youtube.com/watch?v=3PHDcQOGFtg   ~ How to make a phone call
+//https://www.youtube.com/watch?v=zcqVrLT1-iY   ~ How to set permissions related to above
+//https://www.youtube.com/watch?v=7iAm_YyOk9o   ~ How to add two numbers through EditText
+//https://www.youtube.com/watch?v=V1ocJmXeQ28   ~ How to play music
+//Change TextView Got help from Cameron
